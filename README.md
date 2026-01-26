@@ -4,17 +4,17 @@ This repository contains the complete codebase, reports, and assets for my **fin
 
 ---
 
-## 🔗 Live Project Dashboard
+## Live Project Dashboard
 
 - **Python + Dash Interactive Dashboard (Deployed on GCP):**  
-  👉 [View Live Dashboard](https://dashapp-605581485690.southamerica-west1.run.app/)
+  [View Live Dashboard](https://dashapp-605581485690.southamerica-west1.run.app/)
 
 - **Tableau Dashboard (Local File):**  
-  📄 `Data_Visualization_Final_Project.twb` (Tableau file included in repo)
+  `Data_Visualization_Final_Project.twb` (Tableau file included in repo)
 
 ---
 
-## 📊 Project Components
+## Project Components
 
 ### 1. Python + Dash Web App
 - Data cleaning and preprocessing with **Pandas**
@@ -39,7 +39,7 @@ This repository contains the complete codebase, reports, and assets for my **fin
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 - Source: [CDC Behavioral Risk Factor Surveillance System (BRFSS) – 2020](https://www.cdc.gov/brfss/index.html)
 - File: `heart_2020_cleaned.csv`
@@ -51,7 +51,7 @@ This repository contains the complete codebase, reports, and assets for my **fin
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python** (Pandas, NumPy, Seaborn, Plotly, Scikit-learn)
 - **Dash / Plotly Dash**
@@ -61,7 +61,7 @@ This repository contains the complete codebase, reports, and assets for my **fin
 
 ---
 
-## 🧠 Author & Acknowledgments
+## Author & Acknowledgments
 
 **Author:** Sagar Shah  
 **Course:** DATS6401 – Visualization of Complex Data  
@@ -70,13 +70,13 @@ This repository contains the complete codebase, reports, and assets for my **fin
 
 ---
 
-## 📬 Contact & Feedback
+## Contact & Feedback
 
 Feel free to connect with me on [LinkedIn]- (www.linkedin.com/in/sagarshah2745) or open an issue in this repository for questions, feedback, or collaborations.
 
 ---
 
-## 📌 License
+## License
 
 This project is intended for **educational and academic use only**. Data belongs to the CDC BRFSS initiative and is publicly available.
 
